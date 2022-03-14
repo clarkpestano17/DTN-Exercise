@@ -7,8 +7,9 @@ This application is developed using C# in which reads lightning strikes from inp
 
 ## Getting Started
 1. To change lightning strike json files, replace the file at 'Application Path/DTNExercise/Data
-2. To change asset json files, replace the file at 'Application Path/DTNExercise/Data'
+2. To change asset json files, replace the file at 'Application Path/DTNExercise/Assets'
 
 ### Dependencies
 
-Newtonsoft.Json by James Newton-King
+* Newtonsoft.Json by James Newton-King
+* .Net Framework 4.5.2
